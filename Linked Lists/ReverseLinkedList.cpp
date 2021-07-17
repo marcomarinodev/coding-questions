@@ -6,7 +6,7 @@
 // https://leetcode.com/problems/reverse-linked-list/
 
 /**
- This problem is common, but mainly was asked at Google, Apple, Facebook, ...
+ This problem is common, but mainly was asked by Google, Apple, Facebook, ...
  */
 
 #include <iostream>
