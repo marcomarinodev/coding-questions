@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  Split a String in Balanced Strings
 //
 //  Created by Marco Marinò on 16/07/21.
 // https://leetcode.com/problems/defanging-an-ip-address/
