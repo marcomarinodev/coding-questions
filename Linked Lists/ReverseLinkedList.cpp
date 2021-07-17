@@ -5,6 +5,10 @@
 //  Created by Marco Marinò on 16/07/21.
 // https://leetcode.com/problems/reverse-linked-list/
 
+/**
+ This problem is common, but mainly was asked at Google, Apple, Facebook, ...
+ */
+
 #include <iostream>
 #include <string.h>
 

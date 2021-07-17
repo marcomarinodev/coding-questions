@@ -5,6 +5,10 @@
 //  Created by Marco Marinò on 16/07/21.
 // https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
+/**
+ This problem was asked in Google coding interviews
+ */
+
 #include <iostream>
 
 using namespace std;
