@@ -1,3 +1,3 @@
 # leetcode-questions
 Collection of solved coding interview problems on leetcode.com. 
-You can find the url of the problem inside the solution file.
+These problems will highlight my road to overcome coding interviews (hopefully).
