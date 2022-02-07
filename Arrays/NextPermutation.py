@@ -1,6 +1,7 @@
 from typing import List
 
 class Solution:
+
     def nextPermutation(self, nums: List[int]) -> None:
         if len(nums) == 1: 
             return
@@ -22,7 +23,8 @@ class Solution:
             nums[c] = tmp
 
         # sort from p to m
-        nums[p:] = sorted(nums[p:])
+        nums[p:] = [el for el in reversed(nums[p:])]
+
         print(nums)
 
 sol = Solution()
